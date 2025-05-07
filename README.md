@@ -5,13 +5,13 @@ This project aims to automate the process of evaluating loan eligibility based o
 
 
 ##  Project Structure
-
+```
 loan-qualification-prediction/
 ├── data/                     # Raw dataset (.csv)
 ├── notebooks/                # Jupyter notebook(s) for data analysis and model building
 │   └── loan_qualification.ipynb
 └── README.md                 # Project description and instructions
-
+```
 
 
 ##  Data Preparation
